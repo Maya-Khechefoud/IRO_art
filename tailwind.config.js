@@ -9,7 +9,8 @@ export default {
       colors:{
         darkBg: '#0a0a0c',
         accentPink: '#ff4d8d',
-        accentLime:'#a3e635"',
+        accentViolet : '#B26CFF',
+        accentLime:'#a3e635',
         mutedGrey: '#8e8e93',
       },
 
